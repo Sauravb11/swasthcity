@@ -175,3 +175,5 @@ Contributions are welcome! Please open an issue to discuss significant changes b
 
 
 ## 📄 License
+
+No license has been specified for this project yet.
